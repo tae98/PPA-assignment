@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Statistics
+comment1.params=neighborhoods\ selected
+comment1.target=Statistics(java.util.HashMap,\ java.util.ArrayList)
+comment2.params=
+comment2.target=int\ getNumberProperties()
+comment3.params=
+comment3.target=double\ getAverageReviewScore()
+comment4.params=
+comment4.target=int\ getTotalNumberOfHomesandApartments()
+comment5.params=
+comment5.target=java.lang.String\ pricestNeighborHood()
+comment6.params=
+comment6.target=java.lang.String\ lowestNeighborHood()
+comment7.params=
+comment7.target=int\ getMinPrice()
+comment8.params=
+comment8.target=int\ getMaxPrice()
+comment9.params=
+comment9.target=int\ getNumberOfNeighborHoods()
+numComments=10
